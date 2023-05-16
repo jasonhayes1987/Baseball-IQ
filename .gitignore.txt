@@ -1,0 +1,2 @@
+# Ignore multlogist env directory
+multlogist/
